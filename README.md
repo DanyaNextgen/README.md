@@ -55,6 +55,7 @@ Modern movie UI app
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanyaNextgen&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_USERNAME&layout=compact&theme=default)
 
 ---
 
