@@ -44,14 +44,6 @@ I'm a fullstack developer 🚀
 
 ---
 
-## 🚀 Projects
-
-### 🎬 Movie App
-Modern movie UI app  
-**Stack:** Next.js, Tailwind
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanyaNextgen&show_icons=true)
